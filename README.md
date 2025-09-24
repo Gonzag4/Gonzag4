@@ -16,7 +16,7 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gonzaga-367816254)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gonzag4)  
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gonzagaluiz931@outlook.com)  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzagaluiz931@outlook.com)
 [![Email Acadêmico](https://img.shields.io/badge/Email%20Acadêmico-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.gonzaga@ufrpe.br)  
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lu_gonzag4)  
 
