@@ -25,17 +25,27 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 ## 💻 Habilidades Técnicas  
 
 **Linguagens de Programação:**  
-- Java  
-- JavaScript  
-- Python  
+- Java, JavaScript, TypeScript, Python, GoF  
 
-**Frameworks e Tecnologias:**  
-- React.js  
-- Node.js  
+**Front-end:**  
+- HTML, CSS, React, hooks, Redux, Design Patterns  
+- Node.js, Express (Full Stack)  
+
+**Back-end:**  
+- Java (Spring Boot), JPA, Hibernate, JDBC, MySQL, MongoDB, SQLite  
+- Django, PySide6  
+
+**APIs e Protocolos:**  
+- REST, JSON  
 
 **Ferramentas e Versionamento:**  
-- Git & GitHub  
-- Visual Studio Code  
+- Git & GitHub, Postman, STS, Maven  
+
+**Testes e Qualidade:**  
+- Selenium, Testes automatizados, TDD, POO, Design Patterns GoF  
+
+**Modelagem e Estruturas:**  
+- OO, UML, JavaFX  
 
 ---
 
@@ -55,10 +65,12 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>  
@@ -75,4 +87,5 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 ---
 
 ⭐ *“Sempre aprendendo e evoluindo na jornada da tecnologia.”*  
+
 
