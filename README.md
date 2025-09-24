@@ -24,18 +24,18 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 
 ## 💻 Habilidades Técnicas  
 
-- **Linguagens de Programação:**  
-  - Java  
-  - JavaScript  
-  - Python  
+**Linguagens de Programação:**  
+- Java  
+- JavaScript  
+- Python  
 
-- **Frameworks e Tecnologias:**  
-  - React.js  
-  - Node.js  
+**Frameworks e Tecnologias:**  
+- React.js  
+- Node.js  
 
-- **Ferramentas e Versionamento:**  
-  - Git & GitHub  
-  - Visual Studio Code  
+**Ferramentas e Versionamento:**  
+- Git & GitHub  
+- Visual Studio Code  
 
 ---
 
@@ -75,3 +75,4 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 ---
 
 ⭐ *“Sempre aprendendo e evoluindo na jornada da tecnologia.”*  
+
