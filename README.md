@@ -58,7 +58,7 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
   </a>
 </div>  
 
-> 🎮 Inclui meu projeto em desenvolvimento na **Unity**, um **jogo feito em C#**, contribuindo para minha porcentagem de uso da linguagem.  
+
 
 ---
 
