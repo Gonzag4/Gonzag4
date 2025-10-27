@@ -25,7 +25,7 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 ## 💻 Habilidades Técnicas  
 
 **Linguagens de Programação:**  
-- Java, JavaScript, TypeScript, Python, GoF  
+- Java, JavaScript, TypeScript, Python, **C#**, GoF  
 
 **Front-end:**  
 - HTML, CSS, React, hooks, Redux, Design Patterns  
@@ -45,7 +45,7 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 - Selenium, Testes automatizados, TDD, POO, Design Patterns GoF  
 
 **Modelagem e Estruturas:**  
-- OO, UML, JavaFX  
+- OO, UML, JavaFX, **Unity (C#)**  
 
 ---
 
@@ -54,9 +54,11 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 <div align="center">
   <a href="https://github.com/Gonzag4">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gonzag4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzag4&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzag4&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&include_repo=projeto-unity-jogo"/>
   </a>
 </div>  
+
+> 🎮 Inclui meu projeto em desenvolvimento na **Unity**, um **jogo feito em C#**, contribuindo para minha porcentagem de uso da linguagem.  
 
 ---
 
@@ -64,6 +66,8 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -87,5 +91,6 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 ---
 
 ⭐ *“Sempre aprendendo e evoluindo na jornada da tecnologia.”*  
+
 
 
