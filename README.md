@@ -49,24 +49,21 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 
 ---
 
-## 📊 Estatísticas do GitHub  
 
 
-<div align="center">
-  <a href="https://github.com/Gonzag4">
-    
-  <!-- Card principal -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gonzag4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## 📊 Estatísticas do GitHub
 
-  <!-- Card de linguagens -->
-  <br/><br/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gonzag4&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&include_repo=projeto-unity-jogo"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzag4&theme=tokyonight)
 
-  </a>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonzag4&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gonzag4&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonzag4&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gonzag4&theme=tokyonight&utcOffset=3)
 
 ---
-
 ## 🚀 Tecnologias que utilizo  
 
 <div align="center" style="display: inline_block"><br>
