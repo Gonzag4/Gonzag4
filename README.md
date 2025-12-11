@@ -53,13 +53,10 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 
 <div align="center">
   <a href="https://github.com/Gonzag4">
-    <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gonzag4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gonzag4&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&include_repo=projeto-unity-jogo"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gonzag4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gonzag4&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&include_repo=projeto-unity-jogo"/>
   </a>
 </div>
-
-
-
 
 ---
 
@@ -91,7 +88,4 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 
 ---
 
-⭐ *“Sempre aprendendo e evoluindo na jornada da tecnologia.”*  
-
-
-
+⭐ *“Sempre aprendendo e evoluindo na jornada da tecnologia.”*
