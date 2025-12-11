@@ -50,18 +50,23 @@ Tenho paixão por tecnologia, programação e desenvolvimento de sistemas, sempr
 ---
 
 
+## 📊 Estatísticas do GitHub  
 
-## 📊 Estatísticas do GitHub
+<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzag4&theme=tokyonight)
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzag4&theme=tokyonight" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonzag4&theme=tokyonight)
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonzag4&theme=tokyonight" />
+      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gonzag4&theme=tokyonight" />
+  </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gonzag4&theme=tokyonight)
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonzag4&theme=tokyonight" />
+      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gonzag4&theme=tokyonight&utcOffset=3" />
+  </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonzag4&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gonzag4&theme=tokyonight&utcOffset=3)
+</div>
 
 ---
 ## 🚀 Tecnologias que utilizo  
