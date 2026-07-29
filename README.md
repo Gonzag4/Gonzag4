@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Java;Desenvolvedor+Full+Stack;Desenvolvedor+de+Jogos;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo!" alt="Apresentação animada">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Java;Desenvolvedor+Full+Stack;Desenvolvedor+de+Jogos;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo!" alt="Apresentação animada">
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Gonzag4&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=0e75b6&style=for-the-badge" alt="Visualizações do perfil">
 
-<img src="https://img.shields.io/github/followers/Gonzag4?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores">
+<img src="https://img.shields.io/github/followers/Gonzag4?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores no GitHub">
 
-<img src="https://img.shields.io/github/stars/Gonzag4?label=Estrelas&style=for-the-badge&logo=github" alt="Estrelas">
+<img src="https://img.shields.io/github/stars/Gonzag4?label=Estrelas&style=for-the-badge&logo=github" alt="Estrelas no GitHub">
 
 </div>
 
@@ -67,7 +67,7 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 
 ## 🚀 Tecnologias e ferramentas
 
-### Linguagens de programação
+### 👨‍💻 Linguagens de programação
 
 <div align="center">
 
@@ -83,7 +83,9 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 
 </div>
 
-### Desenvolvimento front-end
+---
+
+### 🎨 Desenvolvimento front-end
 
 <div align="center">
 
@@ -97,7 +99,9 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 
 </div>
 
-### Desenvolvimento back-end
+---
+
+### ⚙️ Desenvolvimento back-end
 
 <div align="center">
 
@@ -113,7 +117,9 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 
 </div>
 
-### Bancos de dados
+---
+
+### 🗄️ Bancos de dados
 
 <div align="center">
 
@@ -125,7 +131,9 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 
 </div>
 
-### Desenvolvimento de jogos
+---
+
+### 🎮 Desenvolvimento de jogos
 
 <div align="center">
 
@@ -133,15 +141,15 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" title="C Sharp">
 
-</div>
-
-<div align="center">
+<br><br>
 
 **GameMaker • GML • Unity • C# • Pixel Art • Game Design**
 
 </div>
 
-### Ferramentas
+---
+
+### 🛠️ Ferramentas
 
 <div align="center">
 
@@ -195,6 +203,7 @@ O projeto está sendo desenvolvido em equipe e envolve mecânicas de coleta de r
 * Git e GitHub
 * Desenvolvimento em equipe
 * Game Design
+* Pixel Art
 * Documentação de software
 * Issues e milestones
 * Organização por funcionalidades
@@ -203,15 +212,16 @@ O projeto está sendo desenvolvido em equipe e envolve mecânicas de coleta de r
 
 ### 🩺 Psique
 
-Sistema web voltado ao gerenciamento de atendimentos psicológicos e interação entre pacientes e profissionais.
+Sistema web voltado ao gerenciamento de atendimentos psicológicos e à interação entre pacientes e profissionais.
 
-**Principais tecnologias:**
+**Principais tecnologias e práticas:**
 
 * React
 * JavaScript
 * TypeScript
 * Node.js
 * APIs REST
+* Git e GitHub
 * Desenvolvimento em equipe
 
 ---
@@ -222,11 +232,11 @@ Projeto acadêmico desenvolvido com o objetivo de incentivar práticas sustentá
 
 O projeto utiliza mecânicas de jogos para apresentar conteúdos relacionados à sustentabilidade dentro do ambiente universitário.
 
-**Principais tecnologias:**
+**Principais tecnologias e práticas:**
 
 * Unity
 * C#
-* Git
+* Git e GitHub
 * Engenharia de Software
 * Game Design
 * Desenvolvimento em equipe
@@ -240,66 +250,6 @@ O projeto utiliza mecânicas de jogos para apresentar conteúdos relacionados à
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gonzag4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzag4&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas">
-
-</div>
-
----
-
-## 📈 Resumo do perfil
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzag4&theme=tokyonight" alt="Resumo detalhado do perfil">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonzag4&theme=tokyonight" alt="Repositórios por linguagem">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gonzag4&theme=tokyonight" alt="Linguagens com mais commits">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonzag4&theme=tokyonight" alt="Estatísticas gerais">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gonzag4&theme=tokyonight&utcOffset=-3" alt="Horário mais produtivo">
-
-</div>
-
----
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=Gonzag4&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições">
-
-</div>
-
----
-
-## 📈 Gráfico de atividade
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gonzag4&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade">
-
-</div>
-
----
-
-## 🏆 Conquistas do GitHub
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Gonzag4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="Troféus do GitHub">
 
 </div>
 
@@ -342,7 +292,3 @@ Sempre buscando aprender, desenvolver novos projetos e evoluir como programador.
 
 </div>
 
-Se gostou de algum projeto, fique à vontade para deixar uma ⭐.
-
-</div>
-```
