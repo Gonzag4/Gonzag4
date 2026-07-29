@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Java;Desenvolvedor+Full+Stack;Desenvolvedor+de+Jogos;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo!" alt="Apresentação animada">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+Web+e+de+Software;Entusiasta+de+Desenvolvimento+de+Jogos;Sempre+aprendendo+e+evoluindo!" alt="Apresentação animada">
 
 <br><br>
 
@@ -20,20 +20,26 @@
 
 Meu nome é **Luiz Gonzaga** e sou estudante do **6º período do Bacharelado em Ciência da Computação** na **Universidade Federal Rural de Pernambuco — UFRPE**.
 
-Sou apaixonado por tecnologia, programação, desenvolvimento de sistemas e desenvolvimento de jogos. Busco aprimorar constantemente meus conhecimentos por meio de projetos acadêmicos, projetos pessoais e trabalhos em equipe.
+Sou **desenvolvedor Full Stack**, com conhecimentos em desenvolvimento de aplicações web, construção de APIs, bancos de dados, interfaces e organização de projetos de software.
 
-Atualmente, tenho interesse principalmente em:
+Tenho experiência acadêmica e prática com tecnologias como **Java, Spring Boot, JavaScript, TypeScript, React, Node.js, Python, MySQL e MongoDB**.
 
-* ☕ Desenvolvimento back-end com **Java e Spring Boot**
-* 🌐 Desenvolvimento web com **React, JavaScript e TypeScript**
-* 🎮 Desenvolvimento de jogos com **GameMaker e Unity**
-* 🏛️ Arquitetura e engenharia de software
+Além do desenvolvimento web, também tenho interesse em **Engenharia de Software**, arquitetura de sistemas, qualidade de código e desenvolvimento de jogos.
+
+Atualmente, busco evoluir principalmente nas seguintes áreas:
+
+* 🌐 Desenvolvimento de aplicações Full Stack
+* ⚛️ Desenvolvimento front-end com React e TypeScript
+* ⚙️ Desenvolvimento back-end com Java, Spring Boot e Node.js
+* 🔗 Desenvolvimento e integração de APIs REST
+* 🗄️ Modelagem e gerenciamento de bancos de dados
+* 🏛️ Arquitetura e Engenharia de Software
 * 🧹 Clean Code e refatoração
 * 🧩 Domain-Driven Design — DDD
 * 🧪 Testes automatizados e qualidade de software
-* 📚 Design Patterns e boas práticas de programação
+* 🎮 Desenvolvimento de jogos com GameMaker e Unity
 
-Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fáceis de manter, aplicando boas práticas de engenharia de software.
+Meu objetivo é construir aplicações completas, organizadas, responsivas e fáceis de manter, aplicando boas práticas tanto no front-end quanto no back-end.
 
 ---
 
@@ -67,25 +73,25 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 
 ## 🚀 Tecnologias e ferramentas
 
-### 👨‍💻 Linguagens de programação
+### 💻 Linguagens de programação
 
 <div align="center">
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java">
-&nbsp;&nbsp;
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" title="C Sharp">
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" title="C Sharp">
 
 </div>
 
 ---
 
-### 🎨 Desenvolvimento front-end
+### 🎨 Front-end
 
 <div align="center">
 
@@ -93,18 +99,30 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3">
 &nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
+&nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React">
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" title="Redux">
 
 </div>
 
+<div align="center">
+
+**HTML5 • CSS3 • JavaScript • TypeScript • React • Hooks • Redux**
+
+</div>
+
 ---
 
-### ⚙️ Desenvolvimento back-end
+### ⚙️ Back-end
 
 <div align="center">
 
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java">
+&nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot">
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js">
@@ -114,6 +132,12 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" title="Django">
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate">
+
+</div>
+
+<div align="center">
+
+**Java • Spring Boot • Node.js • Express • Django • JPA • Hibernate • JDBC • APIs REST**
 
 </div>
 
@@ -131,6 +155,12 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 
 </div>
 
+<div align="center">
+
+**MySQL • MongoDB • SQLite • Modelagem de dados • SQL**
+
+</div>
+
 ---
 
 ### 🎮 Desenvolvimento de jogos
@@ -141,7 +171,9 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" title="C Sharp">
 
-<br><br>
+</div>
+
+<div align="center">
 
 **GameMaker • GML • Unity • C# • Pixel Art • Game Design**
 
@@ -149,7 +181,7 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 
 ---
 
-### 🛠️ Ferramentas
+### 🛠️ Ferramentas e ambientes
 
 <div align="center">
 
@@ -162,12 +194,24 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman">
 &nbsp;&nbsp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA">
+
+</div>
+
+<div align="center">
+
+**Git • GitHub • Maven • Postman • Visual Studio Code • IntelliJ IDEA • STS**
 
 </div>
 
 ---
 
-## 🧠 Conhecimentos em engenharia de software
+## 🧠 Engenharia de Software
+
+Tenho interesse em desenvolver aplicações que não apenas funcionem, mas que também sejam organizadas, compreensíveis e fáceis de manter.
+
+Meus principais conhecimentos e áreas de estudo incluem:
 
 * Programação Orientada a Objetos — POO
 * Princípios SOLID
@@ -176,70 +220,110 @@ Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fác
 * Design Patterns — GoF
 * Arquitetura em camadas
 * Model-View-Controller — MVC
-* APIs REST
+* Desenvolvimento de APIs REST
 * Test-Driven Development — TDD
 * Testes automatizados
 * Selenium
 * UML
 * Refatoração de código
+* Estruturas de dados
+* Algoritmos
 * Git e GitHub
 * Metodologias ágeis
-* Organização e documentação de projetos
+* Documentação de software
+* Organização de issues e milestones
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🎮 Projeto Bonecos
+### 🛍️ Loja de Roupas
 
-Jogo desenvolvido com **GameMaker**, inspirado em jogos como *Forager*.
+Projeto de aplicação web desenvolvido para praticar a criação de interfaces, organização de páginas e funcionalidades relacionadas a uma loja virtual.
 
-O projeto está sendo desenvolvido em equipe e envolve mecânicas de coleta de recursos, construção, gerenciamento de personagens e defesa da base.
+**Tecnologias e conhecimentos aplicados:**
 
-**Principais tecnologias e práticas:**
-
-* GameMaker
-* GML
-* Git e GitHub
-* Desenvolvimento em equipe
-* Game Design
-* Pixel Art
-* Documentação de software
-* Issues e milestones
-* Organização por funcionalidades
+* JavaScript
+* HTML
+* CSS
+* Desenvolvimento front-end
+* Organização de interfaces
 
 ---
 
-### 🩺 Psique
+### 🛒 Projeto Lista de Compras
 
-Sistema web voltado ao gerenciamento de atendimentos psicológicos e à interação entre pacientes e profissionais.
+Aplicação desenvolvida para gerenciamento de itens de uma lista de compras.
 
-**Principais tecnologias e práticas:**
+**Tecnologias e conhecimentos aplicados:**
 
-* React
-* JavaScript
-* TypeScript
-* Node.js
-* APIs REST
-* Git e GitHub
-* Desenvolvimento em equipe
+* Java
+* Programação Orientada a Objetos
+* Organização de dados
+* Desenvolvimento de funcionalidades
+* Estruturação de código
+
+---
+
+### 📝 Editor de Texto Básico
+
+Projeto de editor de texto desenvolvido para praticar interfaces gráficas e manipulação de arquivos.
+
+**Tecnologias e conhecimentos aplicados:**
+
+* Java
+* Interface gráfica
+* Manipulação de arquivos
+* Eventos e componentes visuais
+
+---
+
+### 🌐 Mini Navegador Web
+
+Aplicação desenvolvida para praticar interfaces gráficas, navegação e integração com conteúdos web.
+
+**Tecnologias e conhecimentos aplicados:**
+
+* Java
+* Interface gráfica
+* Navegação web
+* Programação Orientada a Objetos
 
 ---
 
 ### 🌱 EcoCampus
 
-Projeto acadêmico desenvolvido com o objetivo de incentivar práticas sustentáveis por meio de gamificação.
+Jogo educativo desenvolvido como projeto acadêmico na disciplina de Engenharia de Software da UFRPE.
 
-O projeto utiliza mecânicas de jogos para apresentar conteúdos relacionados à sustentabilidade dentro do ambiente universitário.
+O projeto utiliza gamificação para ensinar conceitos relacionados à sustentabilidade e à separação correta de resíduos.
 
-**Principais tecnologias e práticas:**
+**Tecnologias e conhecimentos aplicados:**
 
 * Unity
 * C#
-* Git e GitHub
 * Engenharia de Software
 * Game Design
+* Git e GitHub
 * Desenvolvimento em equipe
+
+---
+
+### 🎮 Projeto Bonecos
+
+Jogo 2D desenvolvido em equipe com a GameMaker, inspirado em jogos de coleta, gerenciamento e evolução como *Forager*.
+
+O projeto envolve coleta de recursos, construção, gerenciamento de personagens e defesa da base.
+
+**Tecnologias e conhecimentos aplicados:**
+
+* GameMaker
+* GML
+* Git e GitHub
+* Pixel Art
+* Game Design
+* Desenvolvimento em equipe
+* Issues e milestones
+* Documentação de software
 
 ---
 
@@ -257,15 +341,18 @@ O projeto utiliza mecânicas de jogos para apresentar conteúdos relacionados à
 
 ## 📚 Atualmente estudando
 
-* ☕ Java e Spring Boot
+* 🌐 Desenvolvimento Full Stack
 * ⚛️ React e TypeScript
+* ☕ Java e Spring Boot
+* 🟢 Node.js e Express
+* 🔗 Desenvolvimento de APIs REST
+* 🗄️ Bancos de dados relacionais e não relacionais
 * 🏛️ Arquitetura de Software
 * 🧩 Domain-Driven Design
 * 🧹 Clean Code
 * 🔄 Refatoração de código
 * 🧪 Testes automatizados
 * 🎮 GameMaker e GML
-* 🎨 Desenvolvimento de jogos 2D
 * 📖 Engenharia de Software
 
 ---
@@ -277,8 +364,25 @@ O projeto utiliza mecânicas de jogos para apresentar conteúdos relacionados à
 * Organização e comprometimento
 * Comunicação
 * Resolução de problemas
+* Pensamento analítico
 * Interesse por novos desafios
 * Comprometimento com a qualidade do código
+
+---
+
+## 🎯 Objetivos profissionais
+
+Busco oportunidades para desenvolver minha experiência como **desenvolvedor Full Stack**, participando da construção de aplicações completas e colaborando em todas as etapas do desenvolvimento.
+
+Tenho interesse em projetos que envolvam:
+
+* Desenvolvimento de interfaces web
+* Construção e integração de APIs
+* Desenvolvimento de regras de negócio
+* Modelagem e integração com bancos de dados
+* Testes e qualidade de software
+* Arquitetura e organização de projetos
+* Trabalho em equipe e versionamento com Git
 
 ---
 
@@ -286,9 +390,8 @@ O projeto utiliza mecânicas de jogos para apresentar conteúdos relacionados à
 
 ### ⭐ Obrigado por visitar meu perfil!
 
-Sempre buscando aprender, desenvolver novos projetos e evoluir como programador.
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como profissional.
 
 **“Sempre aprendendo e evoluindo na jornada da tecnologia.”**
 
 </div>
-
