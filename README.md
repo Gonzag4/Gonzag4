@@ -1,189 +1,255 @@
-```markdown
 # 👋 Olá, eu sou Luiz Gonzaga!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Java;Desenvolvedor+Full+Stack;Game+Developer;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gonzag4&label=Visualizações&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Gonzag4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Gonzag4?style=for-the-badge&logo=github" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Java;Desenvolvedor+Full+Stack;Desenvolvedor+de+Jogos;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo!" alt="Apresentação animada">
 
----
+<br>
 
-# 👨‍💻 Sobre Mim
+<img src="https://komarev.com/ghpvc/?username=Gonzag4&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=0e75b6&style=for-the-badge" alt="Visualizações do perfil">
 
-🎓 Estudante de **Ciência da Computação** na **Universidade Federal Rural de Pernambuco (UFRPE)**.
+<img src="https://img.shields.io/github/followers/Gonzag4?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores">
 
-💻 Apaixonado por desenvolvimento de software, arquitetura de sistemas, engenharia de software e desenvolvimento de jogos.
+<img src="https://img.shields.io/github/stars/Gonzag4?label=Estrelas&style=for-the-badge&logo=github" alt="Estrelas">
 
-Atualmente concentro meus estudos em:
-
-- ☕ Java & Spring Boot
-- 🌐 Desenvolvimento Full Stack
-- 🎮 Game Development (GameMaker e Unity)
-- 🏛 Arquitetura de Software
-- 📚 Engenharia de Software
-- 🧹 Clean Code
-- 🧩 Domain-Driven Design (DDD)
-- 🔄 Refatoração de Software
-
-Meu objetivo é criar softwares bem estruturados, escaláveis e fáceis de manter, sempre aplicando boas práticas de desenvolvimento.
+</div>
 
 ---
 
-# 🌎 Contato
+## 👨‍💻 Sobre mim
 
-<p align="center">
+Meu nome é **Luiz Gonzaga** e sou estudante do **6º período do Bacharelado em Ciência da Computação** na **Universidade Federal Rural de Pernambuco — UFRPE**.
+
+Sou apaixonado por tecnologia, programação, desenvolvimento de sistemas e desenvolvimento de jogos. Busco aprimorar constantemente meus conhecimentos por meio de projetos acadêmicos, projetos pessoais e trabalhos em equipe.
+
+Atualmente, tenho interesse principalmente em:
+
+* ☕ Desenvolvimento back-end com **Java e Spring Boot**
+* 🌐 Desenvolvimento web com **React, JavaScript e TypeScript**
+* 🎮 Desenvolvimento de jogos com **GameMaker e Unity**
+* 🏛️ Arquitetura e engenharia de software
+* 🧹 Clean Code e refatoração
+* 🧩 Domain-Driven Design — DDD
+* 🧪 Testes automatizados e qualidade de software
+* 📚 Design Patterns e boas práticas de programação
+
+Meu objetivo é desenvolver sistemas organizados, escaláveis, testáveis e fáceis de manter, aplicando boas práticas de engenharia de software.
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/luiz-gonzaga-367816254">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/Gonzag4">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="mailto:gonzagaluiz931@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail pessoal">
 </a>
 
 <a href="mailto:luiz.gonzaga@ufrpe.br">
-<img src="https://img.shields.io/badge/UFRPE-4285F4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/E--mail%20acad%C3%AAmico-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail acadêmico">
 </a>
 
 <a href="https://www.instagram.com/lu_gonzag4">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias e ferramentas
 
-## 👨‍💻 Linguagens
-
-<p align="center">
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-</p>
-
----
-
-## ⚙️ Frameworks
-
-<p align="center">
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-
-</p>
-
----
-
-## 🗄 Banco de Dados
-
-<p align="center">
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-
-</p>
-
----
-
-## 🎮 Desenvolvimento de Jogos
-
-<p align="center">
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-
-</p>
-
-- 🎮 GameMaker
-- 🧩 GML
-- 🎨 Pixel Art
-- 🏗 Game Design
-
----
-
-# 📚 Principais Competências
-
-- Programação Orientada a Objetos
-- SOLID
-- Clean Code
-- Domain-Driven Design (DDD)
-- Design Patterns (GoF)
-- Arquitetura em Camadas
-- REST API
-- UML
-- Git
-- GitHub
-- Maven
-- Postman
-- Selenium
-- TDD
-
----
-
-# 🚀 Projetos em Destaque
-
-## 🎮 Projeto Bonecos
-
-Jogo inspirado em **Forager**, desenvolvido na GameMaker utilizando princípios de Engenharia de Software, Git Flow e documentação baseada em Game Design.
-
----
-
-## 🩺 Psique
-
-Sistema web para gerenciamento de atendimentos psicológicos.
-
-**Tecnologias**
-
-- React
-- Spring Boot
-- MySQL
-- REST API
-
----
-
-## 🌱 EcoCampus
-
-Projeto acadêmico focado em sustentabilidade utilizando gamificação.
-
----
-
-# 📊 Estatísticas do GitHub
+### Linguagens de programação
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Gonzag4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" title="C Sharp">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzag4&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### Desenvolvimento front-end
+
+<div align="center">
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" title="Redux">
+
+</div>
+
+### Desenvolvimento back-end
+
+<div align="center">
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" title="Django">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate">
+
+</div>
+
+### Bancos de dados
+
+<div align="center">
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite">
+
+</div>
+
+### Desenvolvimento de jogos
+
+<div align="center">
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" title="Unity">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" title="C Sharp">
+
+</div>
+
+<div align="center">
+
+**GameMaker • GML • Unity • C# • Pixel Art • Game Design**
+
+</div>
+
+### Ferramentas
+
+<div align="center">
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" title="Maven">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman">
+&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
 </div>
 
 ---
 
-# 📈 Resumo do Perfil
+## 🧠 Conhecimentos em engenharia de software
+
+* Programação Orientada a Objetos — POO
+* Princípios SOLID
+* Clean Code
+* Domain-Driven Design — DDD
+* Design Patterns — GoF
+* Arquitetura em camadas
+* Model-View-Controller — MVC
+* APIs REST
+* Test-Driven Development — TDD
+* Testes automatizados
+* Selenium
+* UML
+* Refatoração de código
+* Git e GitHub
+* Metodologias ágeis
+* Organização e documentação de projetos
+
+---
+
+## 📌 Projetos em destaque
+
+### 🎮 Projeto Bonecos
+
+Jogo desenvolvido com **GameMaker**, inspirado em jogos como *Forager*.
+
+O projeto está sendo desenvolvido em equipe e envolve mecânicas de coleta de recursos, construção, gerenciamento de personagens e defesa da base.
+
+**Principais tecnologias e práticas:**
+
+* GameMaker
+* GML
+* Git e GitHub
+* Desenvolvimento em equipe
+* Game Design
+* Documentação de software
+* Issues e milestones
+* Organização por funcionalidades
+
+---
+
+### 🩺 Psique
+
+Sistema web voltado ao gerenciamento de atendimentos psicológicos e interação entre pacientes e profissionais.
+
+**Principais tecnologias:**
+
+* React
+* JavaScript
+* TypeScript
+* Node.js
+* APIs REST
+* Desenvolvimento em equipe
+
+---
+
+### 🌱 EcoCampus
+
+Projeto acadêmico desenvolvido com o objetivo de incentivar práticas sustentáveis por meio de gamificação.
+
+O projeto utiliza mecânicas de jogos para apresentar conteúdos relacionados à sustentabilidade dentro do ambiente universitário.
+
+**Principais tecnologias:**
+
+* Unity
+* C#
+* Git
+* Engenharia de Software
+* Game Design
+* Desenvolvimento em equipe
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzag4&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gonzag4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzag4&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas">
+
+</div>
+
+---
+
+## 📈 Resumo do perfil
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzag4&theme=tokyonight" alt="Resumo detalhado do perfil">
 
 </div>
 
@@ -191,9 +257,9 @@ Projeto acadêmico focado em sustentabilidade utilizando gamificação.
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonzag4&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonzag4&theme=tokyonight" alt="Repositórios por linguagem">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gonzag4&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gonzag4&theme=tokyonight" alt="Linguagens com mais commits">
 
 </div>
 
@@ -201,66 +267,80 @@ Projeto acadêmico focado em sustentabilidade utilizando gamificação.
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonzag4&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonzag4&theme=tokyonight" alt="Estatísticas gerais">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gonzag4&theme=tokyonight&utcOffset=-3"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonzag4&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gonzag4&theme=tokyonight&utcOffset=-3" alt="Horário mais produtivo">
 
 </div>
 
 ---
 
-# 📈 Gráfico de Atividade
+## 🔥 Sequência de contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gonzag4&theme=tokyo-night"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=Gonzag4&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições">
 
 </div>
 
 ---
 
-# 🏆 Conquistas
+## 📈 Gráfico de atividade
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gonzag4&theme=tokyonight&margin-w=10&margin-h=10&column=4"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gonzag4&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade">
 
 </div>
 
 ---
 
-# 📖 Atualmente Estudando
+## 🏆 Conquistas do GitHub
 
-- ☕ Spring Boot
-- 🏛 Clean Architecture
-- 🧩 Domain-Driven Design
-- 🔄 Refatoração
-- 🧪 Testes Automatizados
-- 🎮 GameMaker
-- 🏗 Arquitetura de Software
-- 📚 Engenharia de Software
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Gonzag4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="Troféus do GitHub">
+
+</div>
 
 ---
 
-# 💡 Filosofia
+## 📚 Atualmente estudando
 
-> *"Primeiro faça funcionar. Depois faça direito. Por fim, faça elegante."*
+* ☕ Java e Spring Boot
+* ⚛️ React e TypeScript
+* 🏛️ Arquitetura de Software
+* 🧩 Domain-Driven Design
+* 🧹 Clean Code
+* 🔄 Refatoração de código
+* 🧪 Testes automatizados
+* 🎮 GameMaker e GML
+* 🎨 Desenvolvimento de jogos 2D
+* 📖 Engenharia de Software
+
+---
+
+## 🤝 Competências pessoais
+
+* Facilidade de aprendizado e adaptação
+* Trabalho em equipe e colaboração
+* Organização e comprometimento
+* Comunicação
+* Resolução de problemas
+* Interesse por novos desafios
+* Comprometimento com a qualidade do código
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado pela visita!
+### ⭐ Obrigado por visitar meu perfil!
+
+Sempre buscando aprender, desenvolver novos projetos e evoluir como programador.
+
+**“Sempre aprendendo e evoluindo na jornada da tecnologia.”**
+
+</div>
 
 Se gostou de algum projeto, fique à vontade para deixar uma ⭐.
 
